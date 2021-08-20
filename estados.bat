@@ -10,3 +10,8 @@ cd..
 
 cd "Nordeste"
 md "AL" "BA" "CE" "MA" "PB" "PI" "PE" "RN" "SE"
+
+cd..
+
+cd "Norte"
+md "AC" "AP" "AM" "PA" "RO" "RR" "TO"
