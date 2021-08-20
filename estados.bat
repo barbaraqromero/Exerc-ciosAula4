@@ -8,5 +8,5 @@ md "GO" "MT" "MS" "DF"
 
 cd..
 
-cd Nordeste
+cd "Nordeste"
 md "AL" "BA" "CE" "MA" "PB" "PI" "PE" "RN" "SE"
