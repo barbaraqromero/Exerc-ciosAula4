@@ -20,3 +20,8 @@ cd..
 
 cd "Sul"
 md "RS" "SC" "PR"
+
+cd..
+
+cd "Sudeste"
+md "SP" "MG" "RJ" "ES"
