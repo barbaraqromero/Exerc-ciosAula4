@@ -15,3 +15,8 @@ cd..
 
 cd "Norte"
 md "AC" "AP" "AM" "PA" "RO" "RR" "TO"
+
+cd..
+
+cd "Sul"
+md "RS" "SC" "PR"
